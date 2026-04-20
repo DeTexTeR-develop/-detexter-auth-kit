@@ -1,0 +1,16 @@
+{
+  "name": "detexter-auth-kit",
+  "version": "1.0.0",
+  "description": "JWT auth middleware and utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ujjwal-detexter",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "jsonwebtoken": "^9.0.3"
+  }
+}
