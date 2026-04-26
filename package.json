@@ -1,6 +1,6 @@
 {
   "name": "detexter-auth-kit",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "JWT auth middleware and utilities",
   "main": "index.js",
   "scripts": {
